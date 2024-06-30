@@ -10,3 +10,238 @@ a {
     text-decoration: none;
 }
 
+.header-logo {
+    font-family: var(--second-family);
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--iris);
+}
+
+.header-logo {
+    font-family: var(--second-family);
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--iris);
+}
+
+.header-logo-accent {
+    font-family: var(--second-family);
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--navy-blue);
+}
+
+.header-menu-item {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #d9d9d9;
+}
+
+.address-list-contacts {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: var(--slate);
+}
+
+.hero {
+background: var(--navy-blue);
+}
+
+.hero-title {
+font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--white);
+}
+
+.hero-btn {
+font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: var(--white);
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.features {
+
+}
+
+.features-list {
+    
+}
+
+.features-item {
+    background: var(--white), rgba(0, 0, 0, 0.2);
+
+}
+
+.subtitle {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
+}
+
+.features-item-text {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: var(--slate);
+}
+
+.team {
+    background: var(--cloud);
+}
+
+.team-title {
+    font-family: var(--font-family);
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+
+.team-list {
+
+}
+
+.team-item {
+
+}
+
+.team-image {
+
+}
+
+.team-subtitle {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+
+.team-text {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--slate);
+}
+
+.portfolio {
+
+}
+
+.portfolio-title {
+    font-family: var(--font-family);
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+
+.portfolio-list {
+
+}
+
+.portfolio-item {
+
+}
+
+.portfolio-subtitle {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
+}
+
+.portfolio-text {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: var(--slate);
+}
+
+.footer {
+        background: var(--navy-blue);
+}
+
+.footer-logo {
+        font-family: var(--second-family);
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 117%;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            color: var(--iris);
+}
+
+.footer-logo-accent {
+        font-family: var(--second-family);
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 117%;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            color: var(--cloud);
+}
+
+.footer-text {
+        font-family: var(--font-family);
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 150%;
+            letter-spacing: 0.02em;
+            color: var(--cloud);
+}
+
+
