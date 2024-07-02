@@ -95,6 +95,7 @@ background-color: #2e2f42;
         letter-spacing: 0.04em;
         color: #fff;
         background: #4d5ae5;
+        cursor: pointer;
 }
 
 .hero-btn:hover,
@@ -155,11 +156,12 @@ background-color: #2e2f42;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
 }
 
 .team-list {
-
+        background-color: #FFFFFF;
 }
 
 .team-item {
@@ -198,6 +200,7 @@ background-color: #2e2f42;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
 }
 
@@ -230,9 +233,10 @@ background-color: #2e2f42;
 }
 
 .footer-logo {
+            font-family: "Raleway", sans-serif;
             font-weight: 700;
             font-size: 18px;
-            line-height: 1.17
+            line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
             color: #4d5ae5;
